@@ -1,6 +1,6 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
 
- var myName = "Jose Marques";
+ var myName = "Hello World";
 
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
